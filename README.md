@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 ### My name is Tanay Bhardwaj.
 ### I am currently interested in web developement and I specialise in wasting time
 ### i know C and javascript and all that stuff and am currently learning python.
