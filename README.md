@@ -3,4 +3,4 @@
 *
 ### My Text Editors
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/tanaybhardwaj24/tanaybhardwaj24/main/Images/vim-logo.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" />
