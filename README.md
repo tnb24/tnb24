@@ -13,5 +13,12 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 
-[![Tanay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanaybhardwaj24)](https://github.com/tanaybhardwaj24/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/tanaybhardwaj24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/apiusername=tanaybhardwaj24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanaybhardwaj24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
