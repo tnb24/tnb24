@@ -1,4 +1,4 @@
-![quotes from art of war by sun tzu](https://github.com/tanaybhardwaj24/tanaybhardwaj24/blob/main/banner.png?raw=true)
+![quotes from art of war by sun tzu](https://1.bp.blogspot.com/-tcPaLBKgu0M/YIpe3yIZhcI/AAAAAAAABQg/_u-rNR5xVJk6G0sfgN4lStE2Jp7ab27tQCLcBGAsYHQ/s1280/New%2BProject%2B%25281%2529.jpg)
 *Avatar made using the wonderful [OpenPeeps Project](https://www.openpeeps.com/)*
 
 ### Stuff I Use And Stuff I Know
