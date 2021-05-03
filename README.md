@@ -1,4 +1,4 @@
-![quotes from art of war by sun tzu](https://1.bp.blogspot.com/-tcPaLBKgu0M/YIpe3yIZhcI/AAAAAAAABQg/_u-rNR5xVJk6G0sfgN4lStE2Jp7ab27tQCLcBGAsYHQ/s1280/New%2BProject%2B%25281%2529.jpg)
+
 *Avatar made using the wonderful [OpenPeeps Project](https://www.openpeeps.com/)*
 
 ### Stuff I Use And Stuff I Know
@@ -11,6 +11,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+ why are you lurking 
 </p>
 
 
