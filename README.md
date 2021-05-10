@@ -1,6 +1,6 @@
 ### Tanay
 
-I am Tanay, a high school student, and a self taught programming hobbyist. I like messing around with programming and making music. Did I mention I like music?
+I am Tanay, a high school student, and a self taught programming hobbyist. I like messing around with programming and making *music*(i just mix instruments). Did I mention I like music?
 
 - 🌱 Currently in love with Fl Studio
 - 📔 Text editor: Neovim
