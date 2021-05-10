@@ -1,6 +1,6 @@
 ### Me
 
-I am Siddharth, a high school student, and a self taught programming hobbyist. I like messing around with code and neovim customisation. Did I mention I like music?
+I am Tanay, a high school student, and a self taught programming hobbyist. I like messing around with code and neovim customisation. Did I mention I like music?
 
 - 🌱 Currently in love with Web Dev
 - 📔 Text editor: Neovim
