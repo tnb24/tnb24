@@ -1,8 +1,8 @@
 ### Me
 
-I am Tanay, a high school student, and a self taught programming hobbyist. I like messing around with code and neovim customisation. Did I mention I like music?
+I am Tanay, a high school student, and a self taught programming hobbyist. I like messing around with programming and making music. Did I mention I like music?
 
-- 🌱 Currently in love with Web Dev
+- 🌱 Currently in love with Fl Studio
 - 📔 Text editor: Neovim
 - 📫 How to reach me: Mail me to tanaybhardwaj24@gmail.com
 - ⌨️ [My Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
