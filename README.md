@@ -9,7 +9,7 @@ I am Tanay, a high school student, and a self taught programming hobbyist. I lik
 
 ### Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanaybhardwaj24&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanaybhardwaj24&count_private=true&show_icons=true&theme=gruvbox)
 
 
 
