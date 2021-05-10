@@ -1,4 +1,4 @@
-### Me
+### Tanay
 
 I am Tanay, a high school student, and a self taught programming hobbyist. I like messing around with programming and making music. Did I mention I like music?
 
