@@ -1,4 +1,4 @@
-### Tanay
+### Me
 
 I am Tanay, a student, and a self taught programming hobbyist. I like messing around with code and FL Studio. Did I mention I like music?
 
