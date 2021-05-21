@@ -4,7 +4,7 @@ I am Tanay, a student, and a self taught programming hobbyist. I like messing ar
 
 - 🌱 Currently in love with FL Studio
 - 📔 Text editor: Neovim/VSCodium
-- 📫 How to reach me: shoot my a message on [reddit](https://reddit.com/u/KidnappingNemo) or [email](mailto:tanaybhardwaj24@gmail.com) me
+- 📫 How to reach me: shoot me a message on [reddit](https://reddit.com/u/KidnappingNemo) or [email](mailto:tanaybhardwaj24@gmail.com) me
 - ⌨️ [My Website](https://tanaybhardwaj24.github.io/)
 
 ### Stats
