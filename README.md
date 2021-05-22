@@ -9,7 +9,7 @@ I am Tanay, a student, and a self taught programming hobbyist. I like messing ar
 
 ### Stats
 
-![My GitHub stats](https:/github-readme-stats.vercel.app/api?username=tanaybhardwaj24&count_private=true&show_icons=true&theme=gruvbox)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tanaybhardwaj24&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
 ![My Languages](https://github-readme-stats-sigma-eosin.vercel.app/api/top-langs/?username=tanaybhardwaj24&layout=compact&langs_count=8&theme=gruvbox)
 
 
