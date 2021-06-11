@@ -1,11 +1,11 @@
 ### Me
 
-I am Tanay, a student and a self taught programming hobbyist. I like messing around with code and FL Studio. Did I mention I like music?
+I am Tanay, a student and a self taught programming hobbyist. I like messing around with code. Did I mention I like music?
 
-- 🌱 Currently in love with FL Studio
+- 🌱 Currently in love with nothing at the moment
 - 📔 Text editor: Neovim/VSCodium
 - 📫 How to reach me: shoot me a message on [reddit](https://reddit.com/u/KidnappingNemo) or [email](mailto:tanaybhardwaj24@gmail.com) me
-- ⌨️ [My Website](https://tbhardwaj.tk/)
+- ⌨️ [My Website](https://awitmuch.now.sh)
 
 ### Stats
 
