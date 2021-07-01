@@ -13,6 +13,4 @@ I am Tanay, a student and a self taught programming hobbyist. I like messing aro
 - [log[4] running parrotos on gitpod](https://tanaybhardwaj24.github.io/blog/blog/gitpod-parrot/)
 - [log[3] writing a fizz buzz in rust](https://tanaybhardwaj24.github.io/blog/blog/fizz-buzz/)
 - [log[1] finishing strings and variables](https://tanaybhardwaj24.github.io/blog/blog/rust-update-2/)
-- [log[2] making my website](https://tanaybhardwaj24.github.io/blog/blog/made-my-website/)
-- [log[0] started rust](https://tanaybhardwaj24.github.io/blog/blog/learning-rust/)
 <!-- BLOG-POST-LIST:END -->
