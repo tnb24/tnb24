@@ -5,4 +5,9 @@ I am Tanay, a student and a self taught programming hobbyist. I like messing aro
 - 🌱 Currently in love with graphic design in mspaint || learning vue
 - 📔 Text editor: Neovim
 - 📫 How to reach me: shoot me a message on [reddit](https://reddit.com/u/KidnappingNemo) or [email](mailto:tanaybhardwaj24@gmail.com) me
-- ⌨️ [My Blog](https://tanaybhardwaj24.github.io/blog)
+<!-- - ⌨️ [My Blog](https://tanaybhardwaj24.github.io/blog) -->
+
+### Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
