@@ -7,6 +7,3 @@ I am Tanay, a student and a self taught programming hobbyist. I like messing aro
 - 📫 How to reach me: shoot me a message on [reddit](https://reddit.com/u/KidnappingNemo) or [email](mailto:tanaybhardwaj24@gmail.com) me
 - ⌨️ [My Blog](https://blogafee.netlify.app/) 
 
-### Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
