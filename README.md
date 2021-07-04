@@ -8,5 +8,8 @@ I am Tanay, a student and a self taught programming hobbyist. I like messing aro
 - ⌨️ [My Blog](https://tanaybhardwaj24.github.io/blog) 
 
 ### Stats
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanaybhardwaj24&theme=gruvbox&show_icons=truecount_private=true"/>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
