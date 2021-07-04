@@ -12,4 +12,5 @@ I am Tanay, a student and a self taught programming hobbyist. I like messing aro
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [log[7] all posts are gone and recursion](https://tanaybhardwaj24.github.io/blog/blog/old-posts-gone/)
 <!-- BLOG-POST-LIST:END -->
