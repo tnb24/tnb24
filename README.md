@@ -12,5 +12,6 @@ I am Tanay, a student and a self taught programming hobbyist. I like messing aro
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [log[8] tail recursion](https://blogafee.vercel.app/blog/tail-recursion)
 - [log[7] all posts are gone and recursion](https://blogafee.vercel.app/blog/recursion-lost-blogs)
 <!-- BLOG-POST-LIST:END -->
