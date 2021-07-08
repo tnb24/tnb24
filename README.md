@@ -1,4 +1,5 @@
 ### Me
+<img src="https://komarev.com/ghpvc/?username=tanaybhardwaj24&label=views"/>
 
 I am Tanay, a student and a self taught programming hobbyist. I like messing around with code. Did I mention I like music?
 
