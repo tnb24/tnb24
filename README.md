@@ -11,7 +11,7 @@ I am Tanay, a student and a self taught programming hobbyist. I like messing aro
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=tanaybhardwaj24&theme=gruvbox&show_icons=true&count_private=true"/>
 
-# Blog posts
+# blog posts
 <!-- BLOG-POST-LIST:START -->
 - [log[8] tail recursion](https://blogafee.vercel.app/blog/tail-recursion)
 - [log[7] all posts are gone and recursion](https://blogafee.vercel.app/blog/recursion-lost-blogs)
