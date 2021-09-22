@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="auto" height="auto" src="/readmename.png">
-</p>
+<img alt="muh banner" src="/readmename.png">   
 
 ### hello, I'm Tanay!
 
